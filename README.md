@@ -11,8 +11,11 @@ A beginner-friendly C++ console application that simulates basic banking operati
 - **Data Persistence**: Automatic saving/loading of user data to file
 - **Multi-User Support**: Array-based database for up to 100 users
 
-- 🎮 How to Use
+
+## 🎮 How to Use
+ 
 1. First Launch
+   
 Program automatically creates users.txt database file
 
 No existing data? It starts fresh!
